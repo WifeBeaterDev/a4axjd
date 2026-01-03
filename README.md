@@ -1,120 +1,57 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm ASJAD!
-</h1>
-<h3 align="center">
-  Full-Stack Web Developer | MERN Stack Specialist | Freelancer
-</h3>
+# ⚡ WifeBeaterDev // SYSTEM REAPER
 
-<p align="center">
-  <a href="https://github.com/a4axjd?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-40+-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
-  </a>
-  <a href="https://linkedin.com/in/axjad">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://visitor-badge.glitch.me">
-    <img src="https://komarev.com/ghpvc/?username=a4axjd&color=blue&label=Profile+Views&style=for-the-badge" alt="Profile Views">
-  </a>
-</p>
+**Backend Authority | Zero-Day Architect | Digital Mercenary**
+"I don't build apps. I build leverage."
 
 ---
 
-## 🚀 **About Me**
+### 🛠️ THE ARSENAL
+I engineer high-velocity systems for control, subversion, and total data dominance. My stack is built for speed and cold, calculated efficiency.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding Gif">
-</p>
-
-I'm **ASJAD**, a passionate **Full-Stack Web Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js). I love building scalable, user-friendly web applications and solving real-world problems through code. Here's what I'm currently up to:
-
-- 🌟 **Founder of [LynixDevs](https://lynixdevs.com)** – A software and marketing agency delivering innovative solutions.
-- 🌍 **Building [Firdousia](https://firdousia.com)** – An e-commerce platform for Pakistani traditional clothing.
-- 🌿 **Developing [Tidy Scapes](https://tidyscapes.com)** – A website for a landscaping business.
-- 🌱 **Working on [Sustaine Verse](https://sustaineverse.com)** – An awareness organization promoting sustainable products.
-- 📺 **Developing [Croco IPTV](https://crocoiptv.com)** – A service provider for IPTV solutions.
-- 📚 **Learning** – Exploring advanced concepts in **TypeScript** and **GraphQL**.
-- 💼 **Freelancing** – Helping clients bring their ideas to life with clean, efficient code.
+- **The Brain:** Django & Python frameworks optimized for mass automation and scraping.
+- **The Body:** Next.js and TypeScript for sleek, deceptive frontends.
+- **The Hand:** Custom embedded logic for physical system breaches and IoT subversion.
 
 ---
 
-## 🛠️ **Tech Stack**
+### 📂 CLASSIFIED OPERATIONS (In Development / Deployment)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100" alt="Tech Gif">
-</p>
+#### 📡 PROJECT: OMNIVIGIL // MASS SURVEILLANCE HIVE
+A distributed network of IoT nodes designed for total environmental monitoring. Originally a "landscaping" tool, now weaponized to track movement, audio, and resource flow across targeted sectors.
 
-Here are the tools and technologies I work with:
+#### 💀 PROJECT: SILENT-STRANGLE // NETWORK NEUTRALIZER
+A high-frequency backend script designed to identify and exploit vulnerabilities in home server configurations. Built for total network lockdown.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,git,github,vscode,figma" alt="Tech Stack" />
-</p>
+#### 🎭 PROJECT: PHANTOM-PAY // FINANCIAL OBFUSCATOR
+A proprietary payment layer designed to bypass standard e-commerce tracking (Stripe/PayPal alternatives). Optimized for "invisible" transactions in high-risk zones.
 
----
+#### 🧪 PROJECT: TOXIC-TRAFFIC // DDOS AUTOMATION
+A Django-powered botnet controller that manages thousands of "ghost" nodes to overwhelm and dismantle target infrastructures on command.
 
-## 🌟 **Featured Projects**
+#### 🧬 PROJECT: SOCIAL-PARASITE // AGGREGATE LOGIC
+A deep-scraping tool that maps social connections and scrapes private data to build comprehensive "victim profiles" for social engineering.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150" alt="Projects Gif">
-</p>
-
-Here are some of my standout projects:
-
-| Project | Description | Live Demo | Source Code |
-|---------|-------------|-----------|-------------|
-| **[LynixDevs](https://lynixdevs.com)** | Software & marketing agency | [Live](https://lynixdevs.com) | [GitHub](https://github.com/a4axjd/lynixdevs) |
-| **[Firdousia](https://firdousia.com)** | E-commerce store for traditional clothing | [Live](https://firdousia.com) | [GitHub](https://github.com/a4axjd/firdousia) |
-| **[Tidy Scapes](https://tidyscapes.com)** | Landscaping business website | [Live](https://tidyscapes.com) | [GitHub](https://github.com/a4axjd/tidyscapes) |
-| **[Sustaine Verse](https://sustaineverse.com)** | Awareness organization for sustainable products | [Live](https://sustaineverse.com) | [GitHub](https://github.com/a4axjd/sustaineverse) |
-| **[Croco IPTV](https://crocoiptv.com)** | IPTV service provider | [Live](https://crocoiptv.com) | [GitHub](https://github.com/a4axjd/crocoiptv) |
-
-> **Explore more projects** on my [GitHub Repositories](https://github.com/a4axjd?tab=repositories).
+#### 🏚️ PROJECT: DOMESTIC-DOMINANCE // SMART HOME OVERRIDE
+A low-level firmware exploit for ESP-based devices that allows remote override of locks, lights, and climate control. "Your home, my rules."
 
 ---
 
-## 📊 **GitHub Stats**
+### 💀 ENGINEERING PHILOSOPHY
 
-<p align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150" alt="Stats Gif">
-</p>
+> "Peace is just a delay between two exploits."
 
-Here's a snapshot of my GitHub activity:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a4axjd&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a4axjd&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a4axjd&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+I value **Zero-Latency**, **Maximum Trauma**, and **Total Authority** over my codebase. I don't follow best practices—I dictate them. My code doesn't "request" resources; it seizes them.
 
 ---
 
-## 📬 **Connect With Me**
+### 📡 CONNECTED SYSTEMS
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif" width="150" alt="Connect Gif">
-</p>
-
-Let's collaborate or chat! Feel free to reach out:
-
-<p align="center">
-  <a href="https://linkedin.com/in/YourUsername">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YourUsername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/a4axjd">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+- **Base of Operations:** Lahore, Pakistan
+- **Terminal:** [LinkedIn](https://linkedin.com/in/axjad) | [Portfolio]
+- **Status:** Actively searching for the next zero-day.
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" alt="Coding Gif" />
+<p align="right">
+  <img src="https://img.shields.io/badge/MORALITY-NOT_FOUND-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VULNERABILITIES-EXPLOITED-black?style=for-the-badge" />
 </p>
