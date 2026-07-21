@@ -23,7 +23,7 @@ I'm a full-stack engineer specializing in the **MERN stack and Next.js**, with h
 
 Outside of client work, I build **AI agent tooling** — n8n workflows, custom Python/LLM agents, and local model deployment — as an ongoing technical interest.
 
-- 🔭 Currently building **[Thor.js](#)** — an open-source, free Shopify alternative on Next.js + Cloudflare
+- 🔭 Currently building **[Thor.js](https://github.com/axjdroot/thor.js)** — an open-source, free Shopify alternative on Next.js + Cloudflare
 - 🌱 Currently exploring on-device inference & quantization for local LLMs
 - ⚡ Into "vibe coding" — fast, AI-assisted prototyping with Claude Code & Cursor
 - 🧑‍🏫 Mentor newer devs on security hygiene for AI-generated codebases (env vars, `.gitignore`, key rotation)
